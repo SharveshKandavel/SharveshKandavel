@@ -271,33 +271,23 @@
 
 <!-- ── Role badges ── -->
 <g class="bd a5" style="--bd:3.3s;--bdy:0s">
-  <rect x="160" y="263" width="192" height="36" rx="18"
+  <rect x="257" y="263" width="140" height="36" rx="18"
         fill="#7c3aed22" stroke="#a855f7" stroke-width="1.1"/>
-  <text x="256" y="286"
+  <text x="327" y="286"
         text-anchor="middle"
         font-family="'Segoe UI',sans-serif"
         font-size="12.5" font-weight="600"
-        fill="#d8b4fe">⚡ CTO @ Credvan</text>
+        fill="#d8b4fe">CTO @ Credvan</text>
 </g>
 
 <g class="bd a5" style="--bd:3.9s;--bdy:-.4s">
-  <rect x="364" y="263" width="278" height="36" rx="18"
+  <rect x="413" y="263" width="230" height="36" rx="18"
         fill="#0e749022" stroke="#38bdf8" stroke-width="1.1"/>
-  <text x="503" y="286"
+  <text x="528" y="286"
         text-anchor="middle"
         font-family="'Segoe UI',sans-serif"
         font-size="12.5" font-weight="600"
-        fill="#7dd3fc">🎓 Mechatronics @ UWaterloo</text>
-</g>
-
-<g class="bd a5" style="--bd:2.7s;--bdy:-.8s">
-  <rect x="654" y="263" width="92" height="36" rx="18"
-        fill="#d9770622" stroke="#f59e0b" stroke-width="1.1"/>
-  <text x="700" y="286"
-        text-anchor="middle"
-        font-family="'Segoe UI',sans-serif"
-        font-size="12" font-weight="600"
-        fill="#fcd34d">🏆 Scholar</text>
+        fill="#7dd3fc">Mechatronics @ UWaterloo</text>
 </g>
 
 <!-- ── Tech tag strip ── -->
