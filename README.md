@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Sharvesh+%F0%9F%91%8B;CTO+%C2%B7+Mechatronics+%40+UWaterloo;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Sharvesh Kandavel — Cosmic Hero"/>
 
 </div>
 
@@ -10,7 +8,7 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top">
 
 ### 🧬 About Me
 
@@ -34,15 +32,6 @@ class Sharvesh:
     always_learning    = True
     open_to_collab     = True
 ```
-
-</td>
-<td width="45%" valign="top">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=SharveshKandavel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=E2E8F0&ring_color=A855F7" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SharveshKandavel&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=F59E0B&currStreakLabel=A855F7&sideLabels=A855F7" width="100%"/>
 
 </td>
 </tr>
@@ -70,7 +59,6 @@ class Sharvesh:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Backend & Infra**
 
@@ -190,16 +178,12 @@ Stack: VEX Robotics · C++ · PID Control
 
 ---
 
-## 📈 Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharveshKandavel&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=06B6D4&point=F59E0B&hide_border=true&area=true&area_color=A855F720" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharveshKandavel&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=38BDF8&point=FCD34D&hide_border=true&area=true&area_color=A855F720" width="100%"/>
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharveshKandavel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&langs_count=8" width="48%"/>
 </div>
 
 ---
@@ -209,9 +193,9 @@ Stack: VEX Robotics · C++ · PID Control
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -237,7 +221,7 @@ Stack: VEX Robotics · C++ · PID Control
 <div align="center">
 
 <!-- START:TIMESTAMP -->
-> 🕐 **Last updated:** June 19, 2026 at 02:42 UTC  
+> 🕐 **Last updated:** June 19, 2026 at 04:09 UTC  
 > *Auto-refreshed daily by [GitHub Actions](../../actions)*
 <!-- END:TIMESTAMP -->
 
