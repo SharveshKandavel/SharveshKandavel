@@ -1,0 +1,30 @@
+name: 🔄 Update README Timestamp
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # Daily at 7 AM UTC
+  workflow_dispatch:       # Allow manual trigger
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run README generator
+        run: python scripts/generate_readme.py
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update README timestamp [skip ci]"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
