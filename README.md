@@ -37,20 +37,7 @@ class Sharvesh:
 </tr>
 </table>
 
----
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SharveshKandavel/SharveshKandavel/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -188,18 +175,6 @@ Stack: VEX Robotics · C++ · PID Control
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharveshKandavel&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=38BDF8&point=FCD34D&hide_border=true&area=true&area_color=A855F720" width="100%"/>
-
-</div>
-
----
 
 
 
